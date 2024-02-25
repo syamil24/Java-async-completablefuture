@@ -1,0 +1,79 @@
+[
+  {
+    "employeeId": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "TRUE",
+    "emailID": "madlim9809@gmail.com",
+    "salary": 50000,
+    "rating": 4
+  },
+  {
+    "employeeId": "2",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "TRUE",
+    "emailID": "test@gmail.com",
+    "salary": 50000,
+    "rating": 4
+  },
+  {
+    "employeeId": "3",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "FALSE",
+    "emailID": "test2@gmail.com",
+    "salary": 50000,
+    "rating": 4
+  },
+  {
+    "employeeId": "4",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "newJoiner": "FALSE",
+    "learningPending": "FALSE",
+    "emailID": "test3@gmail.com",
+    "salary": 50000,
+    "rating": 4
+  },
+  {
+    "employeeId": "2",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "TRUE",
+    "emailID": "test@gmail.com",
+    "salary": 50000,
+    "rating": 4
+  },
+  {
+    "employeeId": "2",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "TRUE",
+    "emailID": "test@gmail.com",
+    "salary": 50000,
+    "rating": 4
+  },
+  {
+  "employeeId": "2",
+  "firstName": "John",
+  "lastName": "Doe",
+  "gender": "Male",
+  "newJoiner": "TRUE",
+  "learningPending": "TRUE",
+  "emailID": "test@gmail.com",
+  "salary": 50000,
+  "rating": 4
+  }
+]
